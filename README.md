@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RalleRavn
 - 👀 I’m interested in game audio.
-- 🌱 I’m currently taking my masters in audio design. Currently writing my thesis.
-- 💞️ I’m looking to collaborate on game projects where I can do the SFX. Preferably through Wwise.
+- 🌱 I have a master's degree in audio design from Aarhus University.
+- 💞️ I’m looking to collaborate on game projects where I can do the SFX. Preferably through Wwise or FMod.
 - 📫 How to reach me: rasmus.r.ravn@gmail.com
 
 <!---
